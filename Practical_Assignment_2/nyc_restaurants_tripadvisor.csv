@@ -1,0 +1,601 @@
+name,neighborhood,rating,n_reviews,cuisine_type,price_range
+Boucherie West Village,Downtown,4.8,2331,"French, American",$$ - $$$
+Piccola Cucina Osteria,Downtown,4.7,3498,"Steakhouse, Seafood",$$ - $$$
+Piccola Cucina Estiatorio,Downtown,4.8,1158,,$$ - $$$
+Olio E Più,Downtown,4.7,3855,"Italian, Sicilian",$$ - $$$
+Numero 28 Pizzeria,Downtown,4.7,1920,"Italian, Sicilian",$$ - $$$
+Petite Boucherie,Downtown,4.8,953,"Italian, Pizza",$$ - $$$
+Bill's Bar & Burger,Downtown,4.3,1754,"Italian, Pizza",$$ - $$$
+Dos Caminos,Downtown,4.2,1031,"Seafood, Mediterranean",$$ - $$$
+Bleecker Street Pizza,Downtown,4.6,1979,,$
+The Standard Grill,Downtown,4.2,2073,"American, Bar",$$ - $$$
+San Carlo Osteria Piemonte,Downtown,4.7,802,"Mexican, Latin",$$ - $$$
+Kuu Ramen,Downtown,4.6,295,"Italian, Pizza",$
+Da Andrea Greenwich Village,Downtown,4.5,475,"American, Bar",$$ - $$$
+Scalini Fedeli,Downtown,4.6,463,"Italian, Pizza",$$$$
+Buenos Aires,Downtown,4.5,510,"Japanese, Asian",$$ - $$$
+Song E Napule Pizzeria & Trattoria,Downtown,4.6,472,,$$ - $$$
+Blue Ribbon Sushi,Downtown,4.5,1077,,$$ - $$$
+Little Owl,Downtown,4.5,1280,"Steakhouse, Argentinean",$$ - $$$
+Russ & Daughters Cafe,Downtown,4.5,718,"Japanese, Sushi",$$ - $$$
+Manhatta,Downtown,4.5,455,"Italian, Pizza",$$$$
+Via Della Pace,Downtown,4.5,1018,,$$ - $$$
+Rafele,Downtown,4.6,1267,"Italian, American",$$ - $$$
+City Vineyard at Pier 26,Downtown,4.5,437,"American, Cafe",$$ - $$$
+Amelie,Downtown,4.5,467,,$$ - $$$
+O'Hara's Restaurant & Pub,Downtown,4.4,1570,,$$ - $$$
+L'Artusi,Downtown,4.5,558,"Italian, Pizza",$$$$
+Tomino - Taberna Gallega,Downtown,4.6,270,"American, Bar",$$ - $$$
+Jungsik,Downtown,4.7,305,"French, European",$$$$
+Emporio,Downtown,4.5,605,"American, Irish",$$ - $$$
+Russ & Daughters,Downtown,4.5,1229,"Italian, European",$$ - $$$
+Ribalta Pizza,Downtown,4.5,973,"Steakhouse, Seafood",$$ - $$$
+The Grey Dog (Nolita),Downtown,4.5,585,"Steakhouse, Seafood",$$ - $$$
+Ivan Ramen,Downtown,4.4,502,"Italian, Pizza",$$ - $$$
+Rubirosa,Downtown,4.5,1378,,$$ - $$$
+Blue Hill,Downtown,4.4,717,"Japanese, Asian",$$$$
+Kesté Pizza e Vino,Downtown,4.5,1237,"Italian, Pizza",$$ - $$$
+A.R.T. SoHo,Downtown,4.9,59,"American, Contemporary",$$ - $$$
+John's of Bleecker Street,Downtown,4.4,1958,"Steakhouse, Seafood",$$ - $$$
+La Lanterna di Vittorio,Downtown,4.4,404,"Italian, Pizza",$$ - $$$
+Gotham Restaurants Llc,Downtown,4.5,1764,"American, Bar",$$$$
+The Dead Rabbit,Downtown,4.4,1438,"Italian, Pizza",$$ - $$$
+Monte's Trattoria,Downtown,4.4,556,"Italian, Pizza",$$ - $$$
+Momofuku Noodle Bar,Downtown,4.4,1496,,$$ - $$$
+Mighty Quinn's Barbeque,Downtown,4.4,674,"American, Irish",$$ - $$$
+Cafe Mogador,Downtown,4.4,591,,$$ - $$$
+Market Table,Downtown,4.5,468,"Japanese, Asian",$$ - $$$
+Stage Door Deli,Downtown,4.4,584,"American, Southwestern",$
+Tamarind - Tribeca,Downtown,4.4,774,"Moroccan, Mediterranean",$$$$
+Dudleys,Downtown,4.4,323,"Japanese, Sushi",$$ - $$$
+Veselka,Downtown,4.4,1094,"American, Contemporary",$$ - $$$
+Osteria Morini,Downtown,4.3,763,"American, Pizza",$$ - $$$
+Tasty Hand - Pulled Noodles,Downtown,4.3,461,,$
+Pylos,Downtown,4.5,418,"American, Bar",$$ - $$$
+Whole Foods Market,Downtown,4.4,505,"Soups, Eastern European",$$ - $$$
+Boqueria Soho,Downtown,4.4,664,"Italian, Bar",$$ - $$$
+Buvette,Downtown,4.4,1002,"Chinese, Asian",$$ - $$$
+Cafe Habana,Downtown,4.3,766,,$
+Delmonico's,Downtown,4.4,1073,,$$$$
+Shanghai 21,Downtown,4.3,464,,$$ - $$$
+Black Tap,Downtown,4.4,879,"European, French",$$ - $$$
+Cuba,Downtown,4.4,486,"Steakhouse, Seafood",$$ - $$$
+Ed's Lobster Bar,Downtown,4.4,768,"French, American",$$ - $$$
+Le CouCou Restaurant,Downtown,4.4,588,"Caribbean, Latin",$$$$
+Bubby's,Downtown,4.3,1743,"American, Seafood",$$ - $$$
+Adrienne's Pizzabar,Downtown,4.3,902,"French, European",$$ - $$$
+Pepolino Ristorante,Downtown,4.4,710,"American, Bar",$$ - $$$
+Clinton St. Baking Company & Restaurant,Downtown,4.3,1555,"Italian, Pizza",$$ - $$$
+Dirt Candy,Downtown,4.5,386,,$$ - $$$
+Pep's on Grand,Downtown,4.4,326,"Italian, Tuscan",$$ - $$$
+Whiskey Tavern,Downtown,4.7,192,"American, Cafe",$$ - $$$
+Beauty & Essex,Downtown,4.4,2297,,$$$$
+Jack's Wife Freda,Downtown,4.3,1085,"Italian, Pizza",$$ - $$$
+Momofuku Ssam Bar,Downtown,4.3,682,"American, Bar",$$ - $$$
+Tacombi Nolita,Downtown,4.3,580,,$$ - $$$
+Fig & Olive | Fifth Avenue,Downtown,4.2,2694,"American, Mediterranean",$$ - $$$
+The Smith,Downtown,4.2,888,,$$ - $$$
+Blue Ribbon Brasserie,Downtown,4.4,395,"Mexican, Latin",$$ - $$$
+Hakata Ippudo NY,Downtown,4.4,624,"French, Mediterranean",$$ - $$$
+BOOM,Downtown,4.3,778,"Steakhouse, Seafood",$$$$
+Nobu Downtown,Downtown,4.3,1604,"American, Bar",$$$$
+George's,Downtown,4.2,1002,"American, Seafood",$$ - $$$
+Minetta Tavern,Downtown,4.2,1220,"Japanese, Asian",$$ - $$$
+Prince Street Pizza,Downtown,4.4,491,"Bar, Contemporary",$
+The Odeon,Downtown,4.2,544,"Contemporary, Japanese",$$ - $$$
+Mermaid Oyster Bar,Downtown,4.5,292,"American, Diner",$$ - $$$
+Fraunces Tavern,Downtown,4.2,1670,"American, Bar",$$ - $$$
+The Capital Grille,Downtown,4.4,401,"Italian, Pizza",$$$$
+Senza Gluten,Downtown,4.4,514,,$$ - $$$
+Gelso & Grand,Downtown,4.2,1016,,$$ - $$$
+Benito One,Downtown,4.2,1544,"American, Contemporary",$$ - $$$
+The Standard Biergarten,Downtown,4.2,455,"French, American",$$ - $$$
+Sadelle's New York,Downtown,4.3,400,"Steakhouse, Seafood",$$ - $$$
+Rosemary's,Downtown,4.2,714,"German, Bar",$$ - $$$
+La Esquina - Soho,Downtown,4.2,1228,,$$ - $$$
+Baz Bagel,Downtown,4.4,304,"Italian, European",$
+Piacere,Downtown,4.4,411,"Mexican, Latin",$$ - $$$
+Industry Kitchen,Downtown,4.1,471,"American, Cafe",$$ - $$$
+Max Brenner NYC,Downtown,4.2,2071,"Steakhouse, Seafood",$$ - $$$
+Strip House Steakhouse,Downtown,4.2,616,"Italian, Mediterranean",$$$$
+Tribeca Grill,Downtown,4.1,1230,"American, Bar",$$$$
+La Grande Boucherie,Midtown West,4.8,3065,"French, American",$$$$
+Dos Caminos,Midtown West,4.5,2132,,$$ - $$$
+Bocca Di Bacco - Theater District.,Midtown West,4.5,272,"French, Steakhouse",$$ - $$$
+Jams,Midtown West,4.5,986,"Mexican, Latin",$$ - $$$
+Bubba Gump Shrimp Co.,Midtown West,4.2,14917,"Italian, Bar",$$ - $$$
+Blue Fin,Midtown West,4.2,2495,"American, Healthy",$$ - $$$
+Los Tacos No. 1,Midtown West,4.7,901,"American, Seafood",$
+Loi Estiatorio,Midtown West,4.7,692,"Steakhouse, Seafood",$$ - $$$
+Bill's Bar & Burger,Midtown West,4.2,4426,"Steakhouse, Seafood",$$ - $$$
+Black Iron Burger,Midtown West,4.5,1246,"Mexican, Latin",$$ - $$$
+Patsy's Italian Restaurant,Midtown West,4.5,5547,,$$ - $$$
+Pure Thai Cookhouse,Midtown West,4.6,1563,"American, Barbecue",$$ - $$$
+B Side Pizzeria,Midtown West,4.6,559,"American, Bar",$$ - $$$
+Gallaghers Steakhouse,Midtown West,4.4,6189,"Italian, Neapolitan",$$$$
+IL Punto Ristorante,Midtown West,4.5,1657,,$$ - $$$
+Gabriel Kreuther,Midtown West,4.6,805,,$$$$
+Westway Diner,Midtown West,4.4,2613,"Steakhouse, Seafood",$
+Izakaya MEW,Midtown West,4.6,1149,"Italian, Seafood",$$ - $$$
+IL Melograno,Midtown West,4.5,351,"Steakhouse, Seafood",$$ - $$$
+The Modern,Midtown West,4.6,2191,"French, Contemporary",$$$$
+Ocean Prime,Midtown West,4.5,775,,$$$$
+5 Napkin Burger,Midtown West,4.4,4470,,$$ - $$$
+Bocca di Bacco - Hell's Kitchen,Midtown West,4.3,704,"Italian, Pizza",$$ - $$$
+Per Se,Midtown West,4.6,1904,"American, Contemporary",$$$$
+Il Corso,Midtown West,4.5,1084,"Steakhouse, Seafood",$$ - $$$
+BG - Bergdorf Goodman,Midtown West,4.5,549,"American, Contemporary",$$$$
+Keens Steakhouse,Midtown West,4.5,6998,,$$$$
+The Landmark Tavern,Midtown West,4.4,417,,$$ - $$$
+Bareburger - Hell's Kitchen,Midtown West,4.5,1571,,$$ - $$$
+Indian Accent,Midtown West,4.5,596,"American, Contemporary",$$$$
+Times Square Diner,Midtown West,4.4,2530,"French, American",$
+Tony's Di Napoli,Midtown West,4.4,6774,"Steakhouse, Seafood",$$ - $$$
+Orso,Midtown West,4.4,510,"American, Diner",$$ - $$$
+Andrews Coffee Shop,Midtown West,4.4,2520,"Italian, Steakhouse",$
+The Meatball Shop - Hell's Kitchen,Midtown West,4.4,1131,,$$ - $$$
+Bengal Tiger Indian Food,Midtown West,4.4,582,,$$ - $$$
+Ippudo Westside,Midtown West,4.5,1356,,$$ - $$$
+Via Brasil Restaurant,Midtown West,4.4,496,"Steakhouse, Seafood",$$ - $$$
+Tanner Smith's,Midtown West,4.4,482,,$$ - $$$
+Obao,Midtown West,4.4,1274,,$$ - $$$
+Masseria Dei Vini,Midtown West,4.5,618,"Steakhouse, Brazilian",$$$$
+The Capital Grille,Midtown West,4.4,1395,"American, Bar",$$$$
+Capizzi,Midtown West,4.4,1846,"Asian, Thai",$$ - $$$
+Real Kung Fu Little Steamed Buns Ramen,Midtown West,4.3,512,"Italian, Pizza",$
+Sean's Bar And Kitchen,Midtown West,4.4,507,"American, Steakhouse",$$ - $$$
+Blue Dog Cookhouse & Bar,Midtown West,4.4,535,"Italian, Pizza",$$ - $$$
+La Masseria,Midtown West,4.4,2031,"Chinese, Japanese",$$$$
+Whole Foods Market,Midtown West,4.4,1885,,$$ - $$$
+Jimmy's Corner,Midtown West,4.4,569,"American, Bar",$
+Rainbow Room,Midtown West,4.4,703,,$$$$
+Le Bernardin,Midtown West,4.6,3678,,$$$$
+44 & X,Midtown West,4.3,780,,$$ - $$$
+Parker & Quinn,Midtown West,4.3,935,,$$ - $$$
+Robert,Midtown West,4.4,1713,"American, Contemporary",$$$$
+Il Gattopardo,Midtown West,4.4,796,,$$$$
+Le Rivage,Midtown West,4.3,972,,$$ - $$$
+West Side Steakhouse,Midtown West,4.3,1162,"American, Bar",$$ - $$$
+Don Antonio,Midtown West,4.3,2346,"American, European",$$ - $$$
+Burger & Lobster Bryant Park,Midtown West,4.4,605,,$$ - $$$
+Guantanamera,Midtown West,4.3,702,"French, American",$$ - $$$
+The Mean Fiddler,Midtown West,4.5,1176,"Steakhouse, Seafood",$$ - $$$
+Toloache,Midtown West,4.3,2184,"Steakhouse, Seafood",$$ - $$$
+Megan’s Bar & Kitchen,Midtown West,4.5,267,"Irish, Bar",$$ - $$$
+Victor's Cafe,Midtown West,4.3,1705,,$$ - $$$
+Estiatorio Milos - Midtown New York,Midtown West,4.4,1635,"Bars & Pubs, Irish",$$$$
+The Three Monkeys,Midtown West,4.3,695,"Latin, Spanish",$$ - $$$
+P.S. Kitchen,Midtown West,4.5,231,"Seafood, Mediterranean",$$ - $$$
+Totto Ramen,Midtown West,4.3,1137,"Steakhouse, Seafood",$
+Oceana,Midtown West,4.3,1243,"American, Bar",$$$$
+Trattoria Trecolori,Midtown West,4.4,2919,"American, Healthy",$$ - $$$
+PizzArte,Midtown West,4.4,1467,"Japanese, Asian",$$ - $$$
+Mastro's Steakhouse,Midtown West,4.4,720,"American, Steakhouse",$$$$
+Ipanema Restaurant,Midtown West,4.3,703,"Italian, Seafood",$$ - $$$
+Molyvos,Midtown West,4.3,1116,"Italian, Pizza",$$ - $$$
+Pio Pio 8,Midtown West,4.3,605,"Steakhouse, Seafood",$$ - $$$
+Da Marino Nyc Italian Restaurant,Midtown West,4.3,2943,"Brazilian, Latin",$$ - $$$
+VIV Thai Restaurant and Bar,Midtown West,4.4,309,"Seafood, International",$$ - $$$
+The Perfect Pint,Midtown West,4.3,1366,"Peruvian, Latin",$$ - $$$
+Danji,Midtown West,4.4,515,"Japanese, Sushi",$$ - $$$
+Quality Meats,Midtown West,4.3,2485,,$$$$
+Joe Allen,Midtown West,4.2,1117,"Asian, Thai",$$ - $$$
+Dutch Fred's,Midtown West,4.3,326,,$$ - $$$
+Gyu-Kaku Japanese BBQ,Midtown West,4.3,442,"Asian, Korean",$$ - $$$
+Glass House Tavern,Midtown West,4.2,918,,$$ - $$$
+Anejo,Midtown West,4.3,423,"American, Contemporary",$$ - $$$
+Mom's Kitchen & Bar,Midtown West,4.4,242,"Bars & Pubs, American",$$ - $$$
+Emporium Brasil,Midtown West,4.3,422,"Japanese, Barbecue",$$ - $$$
+Tavola,Midtown West,4.2,1036,"American, Contemporary",$$ - $$$
+Nobu Fifty Seven,Midtown West,4.3,1956,"Mexican, Latin",$$$$
+Churrascaria Plataforma,Midtown West,4.3,1534,"American, Bar",$$$$
+BXL Cafe,Midtown West,4.2,600,"Steakhouse, Seafood",$$ - $$$
+Don Giovanni,Midtown West,4.1,798,"Steakhouse, Seafood",$$ - $$$
+Del Frisco's Double Eagle Steakhouse,Midtown West,4.4,3502,,$$$$
+Pazza Notte,Midtown West,4.2,1205,"Italian, Pizza",$$ - $$$
+Ai Fiori,Midtown West,4.3,1090,"Steakhouse, Seafood",$$$$
+An'nam Vietnamese & Japanese Kitchen ,Midtown West,4.3,329,"Italian, Pizza",$$ - $$$
+Carmine's - Time Square,Midtown West,4.4,13374,"Italian, French",$$ - $$$
+Osteria Al Doge,Midtown West,4.2,1479,"French, American",$$ - $$$
+The Keg Room,Midtown West,4.2,870,"Japanese, Sushi",$$ - $$$
+Bstro 38,Midtown West,4.4,305,,$$ - $$$
+La Grande Boucherie,Midtown,4.8,3065,"Steakhouse, Seafood",$$$$
+Dos Caminos,Midtown,4.5,2132,"French, American",$$ - $$$
+Jams,Midtown,4.5,986,"French, Steakhouse",$$ - $$$
+Bubba Gump Shrimp Co.,Midtown,4.2,14917,"Mexican, Latin",$$ - $$$
+Blue Fin,Midtown,4.2,2495,"American, Healthy",$$ - $$$
+Los Tacos No. 1,Midtown,4.7,901,"American, Seafood",$
+Loi Estiatorio,Midtown,4.7,692,"Steakhouse, Seafood",$$ - $$$
+Bill's Bar & Burger,Midtown,4.2,4426,"Steakhouse, Seafood",$$ - $$$
+Black Iron Burger,Midtown,4.5,1246,"Mexican, Latin",$$ - $$$
+Patsy's Italian Restaurant,Midtown,4.5,5547,,$$ - $$$
+Gallaghers Steakhouse,Midtown,4.4,6189,"American, Barbecue",$$$$
+Gabriel Kreuther,Midtown,4.6,805,"American, Bar",$$$$
+Izakaya MEW,Midtown,4.6,1149,"Italian, Neapolitan",$$ - $$$
+The Modern,Midtown,4.6,2191,"Steakhouse, Seafood",$$$$
+Ocean Prime,Midtown,4.5,775,"French, Contemporary",$$$$
+Nerai,Midtown,4.6,703,,$$$$
+Her Name Is Han,Midtown,4.5,332,"American, Contemporary",$$ - $$$
+Il Corso,Midtown,4.5,1084,"Steakhouse, Seafood",$$ - $$$
+Hangawi,Midtown,4.5,665,"Japanese, Sushi",$$$$
+BG - Bergdorf Goodman,Midtown,4.5,549,"Seafood, Mediterranean",$$$$
+Hatsuhana Sushi Restaurant,Midtown,4.5,443,"Japanese, Asian",$$ - $$$
+Tommy Bahama Restaurant & Bar,Midtown,4.4,549,,$$ - $$$
+Keens Steakhouse,Midtown,4.5,6998,"Asian, Korean",$$$$
+Indian Accent,Midtown,4.5,596,"American, Contemporary",$$$$
+Times Square Diner,Midtown,4.4,2530,"Japanese, Sushi",$
+Tony's Di Napoli,Midtown,4.4,6774,"American, Seafood",$$ - $$$
+Ayza Wine & Chocolate Bar,Midtown,4.4,603,"American, Steakhouse",$$ - $$$
+Andrews Coffee Shop,Midtown,4.4,2520,,$
+Bengal Tiger Indian Food,Midtown,4.4,582,"American, Diner",$$ - $$$
+Via Brasil Restaurant,Midtown,4.4,496,"Italian, Steakhouse",$$ - $$$
+La Grande Boucherie,Midtown,4.8,3065,"Steakhouse, Seafood",$$$$
+Dos Caminos,Midtown,4.5,2132,"French, American",$$ - $$$
+Jams,Midtown,4.5,986,"French, Steakhouse",$$ - $$$
+Bubba Gump Shrimp Co.,Midtown,4.2,14917,"Mexican, Latin",$$ - $$$
+Blue Fin,Midtown,4.2,2495,"American, Healthy",$$ - $$$
+Los Tacos No. 1,Midtown,4.7,901,"American, Seafood",$
+Loi Estiatorio,Midtown,4.7,692,"Steakhouse, Seafood",$$ - $$$
+Bill's Bar & Burger,Midtown,4.2,4426,"Steakhouse, Seafood",$$ - $$$
+Black Iron Burger,Midtown,4.5,1246,"Mexican, Latin",$$ - $$$
+Patsy's Italian Restaurant,Midtown,4.5,5547,,$$ - $$$
+Gallaghers Steakhouse,Midtown,4.4,6189,"American, Barbecue",$$$$
+Gabriel Kreuther,Midtown,4.6,805,"American, Bar",$$$$
+Izakaya MEW,Midtown,4.6,1149,"Italian, Neapolitan",$$ - $$$
+The Modern,Midtown,4.6,2191,"Steakhouse, Seafood",$$$$
+Ocean Prime,Midtown,4.5,775,"French, Contemporary",$$$$
+Nerai,Midtown,4.6,703,,$$$$
+Her Name Is Han,Midtown,4.5,332,"American, Contemporary",$$ - $$$
+Il Corso,Midtown,4.5,1084,"Steakhouse, Seafood",$$ - $$$
+Hangawi,Midtown,4.5,665,"Japanese, Sushi",$$$$
+BG - Bergdorf Goodman,Midtown,4.5,549,"Seafood, Mediterranean",$$$$
+Hatsuhana Sushi Restaurant,Midtown,4.5,443,"Japanese, Asian",$$ - $$$
+Tommy Bahama Restaurant & Bar,Midtown,4.4,549,,$$ - $$$
+Keens Steakhouse,Midtown,4.5,6998,"Asian, Korean",$$$$
+Indian Accent,Midtown,4.5,596,"American, Contemporary",$$$$
+Times Square Diner,Midtown,4.4,2530,"Japanese, Sushi",$
+Tony's Di Napoli,Midtown,4.4,6774,"American, Seafood",$$ - $$$
+Ayza Wine & Chocolate Bar,Midtown,4.4,603,"American, Steakhouse",$$ - $$$
+Andrews Coffee Shop,Midtown,4.4,2520,,$
+Bengal Tiger Indian Food,Midtown,4.4,582,"American, Diner",$$ - $$$
+Via Brasil Restaurant,Midtown,4.4,496,"Italian, Steakhouse",$$ - $$$
+La Grande Boucherie,Midtown,4.8,3065,"Steakhouse, Seafood",$$$$
+Dos Caminos,Midtown,4.5,2132,"French, American",$$ - $$$
+Jams,Midtown,4.5,986,"French, Steakhouse",$$ - $$$
+Bubba Gump Shrimp Co.,Midtown,4.2,14917,"Mexican, Latin",$$ - $$$
+Blue Fin,Midtown,4.2,2495,"American, Healthy",$$ - $$$
+Los Tacos No. 1,Midtown,4.7,901,"American, Seafood",$
+Loi Estiatorio,Midtown,4.7,692,"Steakhouse, Seafood",$$ - $$$
+Bill's Bar & Burger,Midtown,4.2,4426,"Steakhouse, Seafood",$$ - $$$
+Black Iron Burger,Midtown,4.5,1246,"Mexican, Latin",$$ - $$$
+Patsy's Italian Restaurant,Midtown,4.5,5547,,$$ - $$$
+Gallaghers Steakhouse,Midtown,4.4,6189,"American, Barbecue",$$$$
+Gabriel Kreuther,Midtown,4.6,805,"American, Bar",$$$$
+Izakaya MEW,Midtown,4.6,1149,"Italian, Neapolitan",$$ - $$$
+The Modern,Midtown,4.6,2191,"Steakhouse, Seafood",$$$$
+Ocean Prime,Midtown,4.5,775,"French, Contemporary",$$$$
+Nerai,Midtown,4.6,703,,$$$$
+Her Name Is Han,Midtown,4.5,332,"American, Contemporary",$$ - $$$
+Il Corso,Midtown,4.5,1084,"Steakhouse, Seafood",$$ - $$$
+Hangawi,Midtown,4.5,665,"Japanese, Sushi",$$$$
+BG - Bergdorf Goodman,Midtown,4.5,549,"Seafood, Mediterranean",$$$$
+Hatsuhana Sushi Restaurant,Midtown,4.5,443,"Japanese, Asian",$$ - $$$
+Tommy Bahama Restaurant & Bar,Midtown,4.4,549,,$$ - $$$
+Keens Steakhouse,Midtown,4.5,6998,"Asian, Korean",$$$$
+Indian Accent,Midtown,4.5,596,"American, Contemporary",$$$$
+Times Square Diner,Midtown,4.4,2530,"Japanese, Sushi",$
+Tony's Di Napoli,Midtown,4.4,6774,"American, Seafood",$$ - $$$
+Ayza Wine & Chocolate Bar,Midtown,4.4,603,"American, Steakhouse",$$ - $$$
+Andrews Coffee Shop,Midtown,4.4,2520,,$
+Bengal Tiger Indian Food,Midtown,4.4,582,"American, Diner",$$ - $$$
+Via Brasil Restaurant,Midtown,4.4,496,"Italian, Steakhouse",$$ - $$$
+La Grande Boucherie,Midtown,4.8,3065,"Steakhouse, Seafood",$$$$
+Dos Caminos,Midtown,4.5,2132,"French, American",$$ - $$$
+Jams,Midtown,4.5,986,"French, Steakhouse",$$ - $$$
+Bubba Gump Shrimp Co.,Midtown,4.2,14917,"Mexican, Latin",$$ - $$$
+Blue Fin,Midtown,4.2,2495,"American, Healthy",$$ - $$$
+Los Tacos No. 1,Midtown,4.7,901,"American, Seafood",$
+Loi Estiatorio,Midtown,4.7,692,"Steakhouse, Seafood",$$ - $$$
+Bill's Bar & Burger,Midtown,4.2,4426,"Steakhouse, Seafood",$$ - $$$
+Black Iron Burger,Midtown,4.5,1246,"Mexican, Latin",$$ - $$$
+Patsy's Italian Restaurant,Midtown,4.5,5547,,$$ - $$$
+Sottocasa Pizzeria Harlem,Uptown,4.8,444,"French, American",$$ - $$$
+Dinosaur Bar-B-Que,Uptown,4.5,1258,,$$ - $$$
+Red Rooster Harlem,Uptown,4.2,2661,"Italian, Pizza",$$ - $$$
+Smoke Jazz Club,Uptown,4.2,569,"American, Bar",$$ - $$$
+Metro Diner,Uptown,4.2,492,"American, Bar",$
+Sylvia's Restaurant,Uptown,4.1,2186,,$$ - $$$
+Amy Ruth's Home Style Southern Cuisine,Uptown,4.1,944,"American, Diner",$$ - $$$
+Jacob Restaurant Soul Food & Salad Bar,Uptown,4.5,203,"Steakhouse, Seafood",$
+Pisticci,Uptown,4.4,283,,$$ - $$$
+Maison Harlem,Uptown,4.3,188,,$$ - $$$
+Tom's Restaurant,Uptown,3.8,681,,$
+Lido Harlem,Uptown,4.3,226,,$$ - $$$
+Community Food & Juice,Uptown,4.2,293,,$$ - $$$
+The Edge Harlem,Uptown,4.4,100,"American, Diner",$$ - $$$
+Arco Cafe,Uptown,4.4,173,,$$ - $$$
+Harlem Tavern,Uptown,3.9,386,"American, Healthy",$$ - $$$
+Patsy's Pizza,Uptown,4.2,289,"American, Caribbean",$$ - $$$
+Jacob Restaurant,Uptown,4.4,115,"Italian, Pizza",$
+Vinatería,Uptown,4.3,136,"Steakhouse, Seafood",$$ - $$$
+Corner Social,Uptown,4.1,203,"American, Bar",$$ - $$$
+Melba's Restaurant,Uptown,4.1,258,"Italian, Pizza",$$ - $$$
+Ricardo Steakhouse,Uptown,4.4,153,,$$ - $$$
+Ortomare Ristorante Pizzeria,Uptown,4.8,49,"Italian, Spanish",$$ - $$$
+Barawine,Uptown,4.2,166,"American, Bar",$$ - $$$
+Babbalucci,Uptown,4.4,117,,$$ - $$$
+Marlow Bistro,Uptown,4.3,95,"American, Steakhouse",$$ - $$$
+Shrine Bar,Uptown,4.7,64,,$
+Minton's ,Uptown,4.4,147,"French, Wine Bar",$$ - $$$
+Earl's Beer and Cheese,Uptown,4.3,112,"Italian, Bar",$
+The Ellington,Uptown,4.2,90,"Italian, Mediterranean",$$ - $$$
+Fumo Harlem,Uptown,4.5,77,"Steakhouse, Seafood",$$ - $$$
+Thai Market,Uptown,4.3,176,"Steakhouse, Seafood",$$ - $$$
+Flor De Mayo Restaurant,Uptown,4.2,180,"Italian, Bar",$$ - $$$
+Lexington pizza parlor,Uptown,4.4,97,"Asian, Thai",$$ - $$$
+Bono Trattoria,Uptown,4.5,62,"Mexican, Chinese",$$ - $$$
+BLVD Bistro,Uptown,4.3,136,"Italian, Pizza",$$ - $$$
+Jin Ramen,Uptown,4.2,147,"Italian, Pizza",$$ - $$$
+Osteria 106,Uptown,4.7,41,"French, American",$$ - $$$
+The Cecil Restaurant,Uptown,4.1,207,,$$ - $$$
+Yatenga French Bistro and Bar,Uptown,4.5,76,"Japanese, Asian",$$ - $$$
+Settepani,Uptown,4.1,150,,$$ - $$$
+Row House,Uptown,4.4,68,"American, Fusion",$$ - $$$
+East Harlem Bottling Company,Uptown,4.5,49,,$$ - $$$
+Cantina Taqueria & Tequila Bar,Uptown,4.5,57,"Italian, Mediterranean",$$ - $$$
+V & T Pizzeria,Uptown,4.0,150,,$$ - $$$
+El Malecon Restaurant,Uptown,4.2,105,"American, Bar",$$ - $$$
+Mel's Burger Bar,Uptown,4.1,146,"Mexican, Latin",$$ - $$$
+Sal and Carmine Pizza,Uptown,4.2,94,"Italian, Pizza",$
+Saggio,Uptown,4.2,99,"American, Bar",$$ - $$$
+Manna's Soul Food Restaurant,Uptown,4.3,97,"Caribbean, Latin",$
+IHOP,Uptown,4.1,131,"American, Bar",$
+Harlem Public,Uptown,4.2,95,"Pizza, Italian",$$ - $$$
+El Paso Mexican Restaurants East Harlem,Uptown,4.2,105,"Italian, International",$$ - $$$
+Le Monde,Uptown,3.7,182,,$$ - $$$
+Cafe Amrita,Uptown,4.1,88,"American, Diner",$
+Cafe du Soleil,Uptown,3.8,192,"American, Bar",$$ - $$$
+Tryon Public House,Uptown,4.3,60,"Mexican, Latin",$$ - $$$
+Manolo Tapas,Uptown,4.6,41,,$$ - $$$
+Amor Cubano,Uptown,4.2,94,"American, Cafe",$$ - $$$
+Symposium Greek Restaurant,Uptown,4.1,70,"French, European",$$ - $$$
+Rao's,Uptown,4.4,93,"Steakhouse, Seafood",$$$$
+Bosino NYC Brick Oven Pizza,Uptown,4.9,16,"Japanese, Sushi",$$ - $$$
+Effy's Kitchen,Uptown,4.6,32,"Italian, Pizza",$
+Savann Restaurant,Uptown,4.4,55,"Italian, Pizza",$$ - $$$
+Ponty Bistro Harlem,Uptown,4.3,77,,$$ - $$$
+Inwood Bar and Grill,Uptown,4.5,34,"Mediterranean, Turkish",$$ - $$$
+Tsion Cafe,Uptown,4.6,32,"French, African",$$ - $$$
+LoLo's Seafood Shack,Uptown,4.1,75,"French, American",$$ - $$$
+Clay,Uptown,4.7,32,"Latin, Bar",$$ - $$$
+Effy's Cafe,Uptown,4.6,30,"African, Bar",$$ - $$$
+El Malecon Restaurant,Uptown,4.1,82,"Caribbean, Seafood",$
+Massawa,Uptown,4.4,48,,$$ - $$$
+Mountain Bird,Uptown,4.6,42,,$$ - $$$
+Max Soha,Uptown,4.1,92,"Mexican, Caribbean",$$ - $$$
+Tartina Italian Restaurant,Uptown,4.2,35,"African, Ethiopian",$$ - $$$
+Silvana,Uptown,4.1,57,"French, European",$$ - $$$
+Trufa Restaurant,Uptown,4.6,37,,$$ - $$$
+Lolita's Mexican Restaurant,Uptown,4.4,34,,$$ - $$$
+ROKC,Uptown,4.5,30,,$$ - $$$
+Cascabel Taqueria West,Uptown,4.0,64,,$$ - $$$
+Nocciola Ristorante,Uptown,4.4,42,,$$ - $$$
+Le Cheile,Uptown,4.3,51,"Mexican, Latin",$$ - $$$
+Cheesy Pizza,Uptown,4.3,42,"Japanese, Seafood",$
+Amuse Bouche Bistro,Uptown,5.0,12,"Mexican, Latin",$
+Bar314,Uptown,5.0,15,"Italian, Pizza",
+Mama's TOO! Pizzeria,Uptown,4.0,52,"American, Irish",$
+Refried Beans,Uptown,4.2,40,"Italian, Pizza",$$ - $$$
+Angel of Harlem,Uptown,4.2,32,"French, Mediterranean",$$ - $$$
+Broadway Dive,Uptown,4.1,39,"Italian, American",$
+Miss Mamie's Spoonbread Too,Uptown,3.8,102,"Italian, Pizza",$$ - $$$
+Mamajuana Cafe,Uptown,4.0,73,"Steakhouse, Seafood",$$ - $$$
+La Chula Tacos 7 Ceviches,Uptown,4.5,22,"Steakhouse, Seafood",$
+Naruto Ramen,Uptown,4.2,32,"Caribbean, Latin",$
+Awash Ethiopian Restaurant,Uptown,3.9,80,"Mexican, Spanish",$$ - $$$
+181 Cabrini,Uptown,4.1,32,"Japanese, Asian",$$ - $$$
+Indian Road Cafe & Market,Uptown,3.9,88,"Chinese, African",$$ - $$$
+Freda's,Uptown,4.4,40,"American, Bar",$
+The Lexington Social,Uptown,4.4,30,"Japanese, Sushi",$$ - $$$
+Charles Pan Fried Chicken,Uptown,3.9,62,"American, Cafe",$
+Max Cafe,Uptown,4.2,37,"Caribbean, Jamaican",$$ - $$$
+Bua Thai Ramen & Robata Grill,Upper East Side,4.8,911,"Steakhouse, Seafood",$$ - $$$
+Daniel,Upper East Side,4.7,3437,"Steakhouse, Seafood",$$$$
+Up Thai,Upper East Side,4.5,394,,$$ - $$$
+Bemelmans Bar,Upper East Side,4.6,525,,$$$$
+Meijin Ramen,Upper East Side,4.7,186,"Asian, Thai",$$ - $$$
+Café Boulud,Upper East Side,4.4,1225,"American, Bar",$$$$
+Match 65 Brasserie,Upper East Side,4.3,468,"Japanese, Asian",$$ - $$$
+Tony's Di Napoli,Upper East Side,4.3,798,"Japanese, Sushi",$$ - $$$
+Jackson Hole Burgers,Upper East Side,4.3,855,,$$ - $$$
+Avra Madison Estiatorio,Upper East Side,4.3,430,"French, American",$$$$
+Piccola Cucina Uptown,Upper East Side,4.6,132,"Italian, Pizza",$$ - $$$
+San Matteo Pizza Espresso Bar,Upper East Side,4.5,400,,$$ - $$$
+Flex Mussels,Upper East Side,4.4,357,"Seafood, Greek",$$ - $$$
+JG Melon,Upper East Side,4.1,885,"Italian, Pizza",$$ - $$$
+Nick's,Upper East Side,4.4,278,"Pizza, Italian",$$ - $$$
+Sant Ambroeus Madison,Upper East Side,4.3,495,"Seafood, Canadian",$$$$
+Uva,Upper East Side,4.2,497,,$$ - $$$
+Bocado Wine Bar & Restaurant,Upper East Side,4.2,226,"Italian, Pizza",$$ - $$$
+Cafe D’alsace,Upper East Side,4.1,399,"French, American",$$ - $$$
+Pastrami Queen,Upper East Side,4.1,495,"Italian, European",$$ - $$$
+Pascalou,Upper East Side,4.3,268,"Italian, Wine Bar",$$ - $$$
+Le Botaniste,Upper East Side,4.6,98,"American, Bar",$$ - $$$
+Isle of Capri,Upper East Side,4.4,243,,$$ - $$$
+Ravagh Persian Grill,Upper East Side,4.3,227,"American, Deli",$$ - $$$
+Don Filippo Restaurant,Upper East Side,4.5,116,"French, European",$
+The Bar Room,Upper East Side,4.3,158,"International, Healthy",$$ - $$$
+Bar Italia,Upper East Side,4.2,294,,$$ - $$$
+Patsy's Pizzeria,Upper East Side,4.1,245,"Mediterranean, Middle Eastern",$$ - $$$
+Toloache Upper East Side,Upper East Side,4.3,186,"Italian, Pizza",$$ - $$$
+Majorelle,Upper East Side,4.5,97,"American, Bar",$$$$
+Paola's Restaurant,Upper East Side,4.2,317,"French, American",$$ - $$$
+The Jeffrey Craft Beer Bar and Bites,Upper East Side,4.5,106,"Steakhouse, Seafood",$$ - $$$
+Heidelberg Restaurant,Upper East Side,4.1,303,,$$ - $$$
+Orsay,Upper East Side,3.9,373,"American, Bar",$$ - $$$
+Lusardi's Restaurant,Upper East Side,4.5,155,"German, Bar",$$$$
+Maya,Upper East Side,4.0,249,"French, International",$$ - $$$
+Il Mulino New York - Madison,Upper East Side,4.1,299,,$$$$
+The Drunken Munkey,Upper East Side,4.3,129,"American, Bar",$$ - $$$
+EJ's Luncheonette,Upper East Side,4.0,274,,$
+Caravaggio Restaurant,Upper East Side,4.3,238,"Italian, Steakhouse",$$$$
+Serafina Fabulous Pizza 79th,Upper East Side,4.0,384,,$$ - $$$
+Bella Blu,Upper East Side,4.2,294,"American, Diner",$$ - $$$
+San Matteo Pizzeria e Cucina,Upper East Side,4.3,133,,$$ - $$$
+Le Pain Quotidien,Upper East Side,4.1,229,"Italian, Pizza",$$ - $$$
+Amaranth Restaurant,Upper East Side,4.1,251,,$$ - $$$
+Anassa Taverna,Upper East Side,4.0,285,"Italian, Pizza",$$ - $$$
+Boqueria UES,Upper East Side,4.2,167,"Cafe, European",$$ - $$$
+Under The Bridge,Upper East Side,4.4,94,"Italian, French",$$ - $$$
+Perrine,Upper East Side,4.4,117,,$$$$
+Vietnaam Restaurant,Upper East Side,4.2,111,"Italian, Seafood",$$ - $$$
+A la Turka,Upper East Side,4.2,129,"Spanish, Wine Bar",$$ - $$$
+La Goulue Restaurant,Upper East Side,4.2,126,"Mediterranean, Greek",$$$$
+The Pembroke Room,Upper East Side,4.5,95,"French, Fusion",$$$$
+Via Quadronno,Upper East Side,3.9,348,"Asian, Vietnamese",$$ - $$$
+Le Pain Quotidien,Upper East Side,4.0,271,"Mediterranean, Turkish",$$ - $$$
+Table D'hôte,Upper East Side,4.4,102,"French, European",$$ - $$$
+The Penrose,Upper East Side,4.1,124,"American, Healthy",$$ - $$$
+Serafina Always,Upper East Side,3.9,343,"Italian, Cafe",$$ - $$$
+Eat Here Now,Upper East Side,4.0,239,"French, Cafe",$
+Farinella Italian Bakery Pizza,Upper East Side,4.3,105,"French, European",$$ - $$$
+The East Pole,Upper East Side,4.1,191,"Steakhouse, Seafood",$$ - $$$
+Felice 64,Upper East Side,4.2,167,"French, American",$$ - $$$
+Campagnola Restaurant,Upper East Side,4.1,191,"American, Bar",$$$$
+Ristorante Altesi,Upper East Side,4.2,152,"Italian, Wine Bar",$$ - $$$
+Club Macanudo,Upper East Side,4.3,132,,$$$$
+T Bar,Upper East Side,4.3,147,"Italian, Mediterranean",$$ - $$$
+Yefsi Estiatorio,Upper East Side,4.2,142,"American, Bar",$$ - $$$
+Brasserie Cognac East,Upper East Side,4.0,151,"American, Barbecue",$$ - $$$
+Le Bilboquet,Upper East Side,4.0,411,"American, Steakhouse",$$$$
+2nd Avenue Deli and 2nd Floor Bar & Essen,Upper East Side,4.1,156,"Italian, Mediterranean",$$ - $$$
+Antonucci Cafe,Upper East Side,4.2,163,"French, Bar",$$ - $$$
+Sushi Of Gari Ues,Upper East Side,4.2,262,,$$$$
+Jean Claude 2,Upper East Side,4.2,121,"Bar, Deli",$$ - $$$
+Moti Mahal Delux,Upper East Side,4.2,162,,$$ - $$$
+Donna Margherita,Upper East Side,4.5,34,"Japanese, Sushi",$$ - $$$
+Three Guys Restaurant,Upper East Side,3.8,251,,$$ - $$$
+Philippe Chow,Upper East Side,3.8,275,,$$$$
+Pick A Bagel,Upper East Side,4.1,110,"Italian, Mediterranean",$
+Cascabel Taqueria East,Upper East Side,4.2,125,"Steakhouse, Seafood",$$ - $$$
+Lilli and Loo,Upper East Side,4.1,155,,$$ - $$$
+Il Divo,Upper East Side,4.7,27,"Chinese, Asian",$$$$
+JoJo,Upper East Side,4.1,134,,$$$$
+Giovanni Venti Cinque,Upper East Side,4.1,150,"Mexican, Latin",$$$$
+Amali NYC,Upper East Side,4.0,214,"Chinese, Japanese",$$ - $$$
+Persepolis,Upper East Side,4.1,170,,$$ - $$$
+Island,Upper East Side,4.0,152,"French, American",$$ - $$$
+Serafina Fabulous Pizza,Upper East Side,3.8,254,,$$ - $$$
+Delizia 73 Ristorante & Pizza,Upper East Side,4.4,71,"Mediterranean, Wine Bar",$$ - $$$
+Gracie Mews Restaurant Corporation,Upper East Side,4.3,84,"Middle Eastern, Persian",$$ - $$$
+Le Charlot,Upper East Side,3.9,193,"American, Seafood",$$ - $$$
+Pil Pil,Upper East Side,4.4,68,"Steakhouse, Seafood",$$ - $$$
+Mediterraneo,Upper East Side,4.0,147,"Steakhouse, Seafood",$$ - $$$
+Sojourn,Upper East Side,4.2,114,"Spanish, Wine Bar",$$ - $$$
+August Restaurant,Upper East Side,3.9,218,"Italian, Mediterranean",$$ - $$$
+Sel et Poivre,Upper East Side,3.9,156,"French, American",$$ - $$$
+Tanoshi Sushi Sake Bar,Upper East Side,4.4,78,,$$$$
+Caffe Dei Fiori,Upper East Side,4.4,64,,$$$$
+Sandro's,Upper East Side,4.3,101,"Japanese, Sushi",$$$$
+THEP Thai Restaurant,Upper East Side,4.4,56,"Japanese, Sushi",$$ - $$$
+Korali,Upper East Side,4.3,94,"Italian, Mediterranean",$$ - $$$
+Boucherie West Village,Greenwich Village,4.8,2331,"Steakhouse, Seafood",$$ - $$$
+Olio E Più,Greenwich Village,4.7,3855,"Steakhouse, Seafood",$$ - $$$
+Numero 28 Pizzeria,Greenwich Village,4.7,1920,,$$ - $$$
+Petite Boucherie,Greenwich Village,4.8,953,"Italian, Pizza",$$ - $$$
+Dos Caminos,Greenwich Village,4.2,1031,"Italian, Pizza",$$ - $$$
+Bleecker Street Pizza,Greenwich Village,4.6,1979,,$
+The Standard Grill,Greenwich Village,4.2,2073,"Mexican, Latin",$$ - $$$
+Da Andrea Greenwich Village,Greenwich Village,4.5,475,"French, American",$$ - $$$
+Song E Napule Pizzeria & Trattoria,Greenwich Village,4.6,472,"Italian, Pizza",$$ - $$$
+Little Owl,Greenwich Village,4.5,1280,"American, Bar",$$ - $$$
+Rafele,Greenwich Village,4.6,1267,,$$ - $$$
+Amelie,Greenwich Village,4.5,467,"Italian, Pizza",$$ - $$$
+L'Artusi,Greenwich Village,4.5,558,"Italian, American",$$$$
+Ribalta Pizza,Greenwich Village,4.5,973,"Italian, Pizza",$$ - $$$
+Blue Hill,Greenwich Village,4.4,717,"French, European",$$$$
+Kesté Pizza e Vino,Greenwich Village,4.5,1237,"Italian, European",$$ - $$$
+John's of Bleecker Street,Greenwich Village,4.4,1958,"Italian, Pizza",$$ - $$$
+La Lanterna di Vittorio,Greenwich Village,4.4,404,"American, Contemporary",$$ - $$$
+Gotham Restaurants Llc,Greenwich Village,4.5,1764,,$$$$
+Monte's Trattoria,Greenwich Village,4.4,556,"Italian, Pizza",$$ - $$$
+Market Table,Greenwich Village,4.5,468,"Italian, Pizza",$$ - $$$
+Whole Foods Market,Greenwich Village,4.4,505,"Italian, Pizza",$$ - $$$
+Buvette,Greenwich Village,4.4,1002,,$$ - $$$
+Cuba,Greenwich Village,4.4,486,,$$ - $$$
+Fig & Olive | Fifth Avenue,Greenwich Village,4.2,2694,"American, Contemporary",$$ - $$$
+BOOM,Greenwich Village,4.3,778,,$$$$
+Minetta Tavern,Greenwich Village,4.2,1220,"European, French",$$ - $$$
+Mermaid Oyster Bar,Greenwich Village,4.5,292,"Caribbean, Latin",$$ - $$$
+Senza Gluten,Greenwich Village,4.4,514,"French, Mediterranean",$$ - $$$
+The Standard Biergarten,Greenwich Village,4.2,455,"Bar, Contemporary",$$ - $$$
+Rosemary's,Greenwich Village,4.2,714,"Steakhouse, Seafood",$$ - $$$
+Max Brenner NYC,Greenwich Village,4.2,2071,"Japanese, Sushi",$$ - $$$
+Strip House Steakhouse,Greenwich Village,4.2,616,"Italian, European",$$$$
+Flex Mussels,Greenwich Village,4.5,260,"American, Contemporary",$$ - $$$
+Barbuto,Greenwich Village,4.3,591,"Steakhouse, Seafood",$$ - $$$
+Knickerbocker Bar & Grill,Greenwich Village,4.2,477,"American, Seafood",$$ - $$$
+Loring Place,Greenwich Village,4.6,178,,$$$$
+Lupa Osteria Romana,Greenwich Village,4.2,996,"French, American",$$ - $$$
+Saigon Shack,Greenwich Village,4.4,284,"American, Steakhouse",$
+Blind Tiger Ale House,Greenwich Village,4.5,311,,$$ - $$$
+Palma,Greenwich Village,4.4,457,"Italian, Romana",$$ - $$$
+Perry St,Greenwich Village,4.4,375,"Asian, Vietnamese",$$$$
+Red Bamboo,Greenwich Village,4.5,328,"American, Bar",$$ - $$$
+Morandi,Greenwich Village,4.1,595,,$$ - $$$
+The Clam,Greenwich Village,4.5,192,"French, American",$$ - $$$
+Pastis,Greenwich Village,4.2,217,"International, Healthy",$$ - $$$
+Bus Stop,Greenwich Village,4.4,263,"Italian, Pizza",$
+Cafe Cluny,Greenwich Village,4.2,397,,$$ - $$$
+Corner Bistro,Greenwich Village,4.0,1100,,$
+RedFarm,Greenwich Village,4.4,408,"French, European",$$ - $$$
+Babbo,Greenwich Village,4.1,1993,"American, Cafe",$$$$
+"One if by Land, Two if by Sea",Greenwich Village,4.1,846,,$$$$
+Decoy Bar,Greenwich Village,4.6,189,"American, Bar",$$ - $$$
+Bareburger - The Village,Greenwich Village,4.3,259,"Chinese, Bar",$$ - $$$
+Il Mulino New York,Greenwich Village,4.3,543,,$$$$
+Jack's Wife Freda,Greenwich Village,4.3,203,"Italian, French",$$ - $$$
+Trattoria Pesce Pasta,Greenwich Village,4.5,229,"Chinese, Asian",$$ - $$$
+Carbone,Greenwich Village,4.0,515,"American, Bar",$$$$
+Joseph Leonard,Greenwich Village,4.4,214,"Italian, Tuscan",$$ - $$$
+Via Carota,Greenwich Village,4.3,447,"American, Mediterranean",$$ - $$$
+Le Gigot,Greenwich Village,4.5,182,"Steakhouse, Seafood",$$ - $$$
+North Square Restaurant & Lounge,Greenwich Village,4.3,262,"French, American",$$ - $$$
+Waverly Diner,Greenwich Village,4.0,329,,$
+Murray's Cheese,Greenwich Village,4.5,277,,$$ - $$$
+Via 13,Greenwich Village,4.4,151,"American, Diner",$$ - $$$
+Arturo's,Greenwich Village,4.2,369,"American, Cafe",$$ - $$$
+Rh Rooftop Restaurant At Rh New York,Greenwich Village,4.2,202,,$$ - $$$
+Banter,Greenwich Village,4.6,87,"Steakhouse, Seafood",$$ - $$$
+STK Steakhouse,Greenwich Village,3.9,969,"Italian, Pizza",$$$$
+Emily - West Village,Greenwich Village,4.3,165,,$$ - $$$
+la bonbonniere,Greenwich Village,4.4,189,"American, Cafe",$
+Alta,Greenwich Village,4.2,451,"American, Steakhouse",$$ - $$$
+St Tropez West Village,Greenwich Village,4.7,73,"Italian, Pizza",$$ - $$$
+Sushi Nakazawa,Greenwich Village,4.3,317,"American, Cafe",$$$$
+Malatesta Trattoria,Greenwich Village,4.3,255,,$$ - $$$
+Peacefood Cafe,Greenwich Village,4.5,119,"French, Wine Bar",$$ - $$$
+The Grey Dog (Union Square),Greenwich Village,4.3,197,"Japanese, Sushi",$$ - $$$
+Valbella,Greenwich Village,4.4,246,,$$$$
+Tacombi,Greenwich Village,4.2,195,"Japanese, Sushi",$$ - $$$
+Mighty Quinn's Barbeque,Greenwich Village,4.3,182,"American, Cafe",$$ - $$$
+The Grey Dog (West Village),Greenwich Village,4.5,83,,$$ - $$$
+Claudette,Greenwich Village,4.2,246,"Italian, Steakhouse",$$ - $$$
+Catch,Greenwich Village,3.9,1753,"Mexican, Latin",$$$$
+Dante,Greenwich Village,4.2,196,"American, Barbecue",$$ - $$$
+Frevo,Greenwich Village,4.8,50,,$$$$
+Urban Vegan Kitchen,Greenwich Village,4.6,73,"French, European",$$ - $$$
+Berimbau Brazilian Kitchen,Greenwich Village,4.3,142,"Seafood, Sushi",$$ - $$$
+Blue Note,Greenwich Village,3.9,1470,"Italian, Bar",$$ - $$$
+Tartine,Greenwich Village,4.2,223,"French, International",$$ - $$$
+Cowgirl,Greenwich Village,4.1,281,,$$ - $$$
+Jeffrey's Grocery,Greenwich Village,4.3,180,"Steakhouse, Seafood",$$ - $$$
+White Oak Tavern,Greenwich Village,4.4,139,"French, American",$$ - $$$
+Bobo,Greenwich Village,4.2,211,"American, Seafood",$$$$
+GMT Tavern,Greenwich Village,4.2,197,"American, Bar",$$ - $$$
+Artichoke Basille's Pizza,Greenwich Village,4.3,146,"French, European",$
+Employees Only,Greenwich Village,4.2,453,"Bar, Seafood",$$ - $$$
+I Sodi,Greenwich Village,4.4,239,"Italian, American",$$ - $$$
+Semma,Greenwich Village,4.4,107,"Steakhouse, Seafood",$$ - $$$
+Senza Gluten By Jemiko 100 % Gluten Free Cafe & Bakery,Greenwich Village,4.8,42,"American, Bar",$$ - $$$
+Panineria,Greenwich Village,4.7,66,,$
